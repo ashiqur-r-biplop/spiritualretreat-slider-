@@ -1,7 +1,7 @@
 // Access the testimonials
 let testSlide = document.querySelectorAll(".testItem");
 // Access the indicators
-let dots = document.querySelectorAll(".dot");
+let dots = document.querySelectorAll(".dot"); 
 
 var counter = 0;
 var deleteInterval;
